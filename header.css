@@ -1,0 +1,37 @@
+
+#header {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tag-ul {
+    display: flex;
+    gap: 60px;
+    list-style-type: none;
+}
+
+.tag-ul a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.tag-ul a:hover {
+    color: #D3D3D3;
+}
+
+#box-redes-sociais img{
+    cursor: pointer;
+    border: 7px solid #000;
+    transition: 1s;
+}
+
+#box-redes-sociais img:hover {
+    transition: 1s;
+    transform: scale(1.1);
+    box-shadow: 0 0 5px 1px #fff;
+    border-radius: 13px;
+}
