@@ -13,4 +13,6 @@ body{
     background-color: black;
     color: aliceblue;
     background-image:url('images/Group\ 4\ \(1\).png'), url('images/Serendale.ai\ \(2\).png');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
